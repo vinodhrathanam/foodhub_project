@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.env
+.venv
+env/
+venv/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Data Files ---
+*.csv
+*.json
+*.xlsx
+
+# --- IDEs & OS ---
+.vscode/
+.idea/
+.DS_Store
