@@ -38,7 +38,7 @@ Analysis revealed that weekend delivery times are significantly higher than week
 
 ## 🚀 How to View the Project
 1. Clone this repository.
-2. Open the `FoodHub_Project_Final.html` file in any web browser to view the interactive code and visualizations.
+2. Open the `PYF_Project_Learner_Notebook_Full_Code_Final_Vinodh_Rathanam.html` file in any web browser to view the interactive code and visualizations.
 3. Or, open the `.ipynb` file in Jupyter Lab to run the analysis yourself.
 
 ---
